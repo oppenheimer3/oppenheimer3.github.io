@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #ac56ad;
+  color: #b026b2;
   text-decoration: none;
 }
 
@@ -46,6 +46,9 @@ header section {
 header img {
   border-radius: 50%;
   max-width: 150px;
+}
+header a {
+  color: rgb(255, 0, 251);
 }
 
 h1 {
@@ -142,7 +145,7 @@ ul.job-description li:before{
 
 footer {
  padding: 1em 1.5em;
- background: #A7B8BF;
+ background: #4a244b;
  color: white;
  text-align: right;
 }
